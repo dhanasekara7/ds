@@ -1,9 +1,0 @@
-
-選択	SSID	BSSID	電波強度	チャンネル	暗号化方式	タイプ
-	aterm-a8e2d0-g	6c:e4:da:a4:eb:73	58	11	WPA-PSK/WPA2-PSK	Infra
-	aterm-a8e2d0-gw	6e:e4:da:a4:eb:73	58	11	WEP	Infra
-	elecom2g-7B9ED0	bc:5c:4c:7b:9e:d2	32	6	WPA2-PSK	Infra
-	aterm-45f579-g	98:f1:99:f3:9b:bb	28	4	WPA-PSK/WPA2-PSK	Infra
-	aterm-45f579-gw	9a:f1:99:f3:9b:bb	28	4	WEP	Infra
-
-106F3FF2EB5A	10:6f:3f:f2:eb:5a	46	1	WPA-PSK/WPA2-PSK	Infra
